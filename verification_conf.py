@@ -11,7 +11,3 @@ verification_conf = {
     ]
   }
 }
-
-grouping_variable = ""
-
-exempt_functions = [""]
